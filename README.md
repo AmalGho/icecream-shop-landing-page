@@ -1,4 +1,4 @@
 # icecream-shop-landing-page
 - landing page for ice cream shop
-- html css javascript
+- html css 
 - responsive design
