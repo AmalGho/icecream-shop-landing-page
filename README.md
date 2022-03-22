@@ -1,1 +1,1 @@
-# shop-landing-page-icecream
+# icecream-shop-landing-page
