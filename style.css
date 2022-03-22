@@ -35,6 +35,7 @@
     width: 100%;
     padding: 100px 50px;
     box-shadow: -6px 0 6px 6px #00000020; 
+    margin-bottom: 50px;
 }
 
 .right h1 {
@@ -78,7 +79,7 @@
 .right .social {
     position: fixed;
     bottom: 0%;
-    right: 2%;
+    right: 0%;
 }
 
 .right .social a {
@@ -108,7 +109,7 @@
 }
 
 .menu-container.show .menu-items {
-    transform: translate(-10%, 15%) scale(1);
+    transform: translate(0, 10%) scale(1);
 }
 
 .left-panel {
@@ -137,7 +138,7 @@
     align-items: center;
     position: fixed;
     top: 5%;
-    right: 2%;
+    right: 0%;
     padding-right: 10px;
 }
 
